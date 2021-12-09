@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+
+<body>
+    <script>
+        fetch('http://web.juhe.cn:8080/finance/stock/hs?gid=sh601009&key=', {
+            method: 'GET',
+            mode:'cors'
+        })
+        .then(response => response.text())
+        .then(data => console.log(data));
+
+    </script>
+</body>
+</html>

@@ -1,9 +1,7 @@
 ---
-title: IFRAME
-date: 2019-11-18 11:40:00
+title: js
+date: 2020-11-18 11:40:00
 ---
-
-## 嵌入网页
 
 <p>
     <div style="width:1000px; height:700px;border:none;text-align:center">
@@ -12,6 +10,6 @@ date: 2019-11-18 11:40:00
 		frameborder="0" 
 		width="1000px" 
 		height="700px" 
-		src="/html/follow.html"/>
+		src="/html/js.html"/>
 	</div>
 </p>
